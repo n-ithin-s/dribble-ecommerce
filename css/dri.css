@@ -1,0 +1,203 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    margin:0;
+    padding:0;
+    
+    overflow-x: hidden;
+   
+}
+.child{
+    width: 100%;
+    
+}
+.nav{
+    font-weight: 100;
+    
+    background-color: rgb(240, 237, 237);
+    
+}
+.line{
+    border-right: 2px solid black;
+    margin-left: 5px;
+}
+.blacknav{
+    background-color: black;
+}
+.s1{
+    color:rgb(197, 191, 191);
+    background-color: rgb(247, 242, 242);
+    padding-right: 30px;
+    border: none;
+    border-color: rgb(240, 237, 237);;
+    text-decoration: none;
+    
+}
+.inputsearch{
+border: none;
+background-color: rgb(247, 242, 242);
+}
+.search{
+    margin-left: 120px;
+}
+.s2{
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.first-half{
+    margin-top: 64.5px;
+    width: 42.8%;
+    height: 73vh;
+   margin-left: -70px;
+   background-color: rgb(247, 243, 243);
+    rotate: 270deg;
+    margin-right: 0px;
+ 
+}
+.first-half span{
+    margin-left: 60px;
+    font-size: large;
+    font-weight: 1000px;
+   margin-top: 320px;
+  margin-bottom: 590px;
+}
+
+
+
+.second-half{
+    margin-left: -64px;
+    margin-top: 0px;
+    width: 69%;
+    min-height: 669px;
+   
+   
+    background: url(../images/girl&boy-final12.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.zpos{
+    position: absolute;
+    z-index: 2;
+    left:190px;
+    top:320px;
+    width: 520px;
+    height: 280px;
+    background-color: rgb(224, 222, 222);
+}
+.big{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.but-1{
+    background-color: black;
+    border-radius: 6px;
+    color: white;
+}
+.img_ga{
+    width: 400px;
+    height: 450px;
+}
+u{
+    font-weight: lighter;
+}
+.but-2{
+    border-radius: 10px;
+}
+
+.img_ga_2{
+    width: 292px;
+    height: 350px;
+}
+
+.h-line{
+    border-bottom: 2px solid rgb(190, 187, 187);
+    width: 83%;
+    margin-left: 130px;
+    opacity:inherit;
+}
+
+.img-sun-lady{
+    width: 100%;
+    min-height: 640px;
+    margin-right: 0px;
+    background: url(../images/sun_kissed_girl.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.winter{
+    margin-left: -30px;
+  
+    width: 100%;
+    min-height: 523px;
+    background-color: lightgrey;
+    
+}
+.shop{
+    margin-top: 30px;
+    padding: 15px;
+    padding-inline: 30px;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+}
+
+.cool-boy{
+    
+    width: 100%;
+    height: 530px;
+    background: url(../images/cool_boy.png);
+}
+.img-girls{
+    width:105%;
+    height: 261px;
+  
+    margin-right: -20px;
+}
+
+.blackfooter{
+    width: 100%;
+    padding-left: 40px;
+    min-height: 340px;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif ;
+}
+.h1-line{
+    
+    border-bottom: 2px solid grey;
+    width: 100%;
+}
+.footer{
+    background-color: black;
+    color: white;
+    width: 100%;
+    min-height:130px ;
+
+}
+.foot{
+    margin-left: 80px;
+}
+.sel3{
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: larger;
+    padding-right: 6px;
+    margin-top: -5px;
+}
+select u{
+    color: white;
+    font-weight:bolder;
+}
+.footerfont div{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
